@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, Atualmente estou trabalhando na LECOM como desenvolvedor de automação inteligente, estou aprendendo java e buscando cada vez mais conhecimento. Sempre estive em contato com a tecnologia.
+Olá, Atualmente estou trabalhando na LECOM como desenvolvedor de automação inteligente, estou aprendendo java e buscando cada vez mais conhecimento.
 
 
 ## 🌐 Socials:
